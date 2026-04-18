@@ -124,7 +124,6 @@ All Sniparium commands are available in the **Command Palette** (`Ctrl+Shift+P` 
    - **Search** your snippets by title, language, or tag
    - **Edit and delete** existing snippets
    - **Mark snippets as public** to get a shareable permanent URL (e.g. `sniparium.vercel.app/s/<id>`)
-   - **View your public profile** at `sniparium.vercel.app/u/<username>`
 
 ---
 
@@ -282,7 +281,6 @@ Todos os comandos do Sniparium estão disponíveis na **Command Palette** (`Ctrl
    - **Buscar** seus snippets por título, linguagem ou tag
    - **Editar e excluir** snippets existentes
    - **Marcar snippets como públicos** para obter uma URL permanente e compartilhável (ex: `sniparium.vercel.app/s/<id>`)
-   - **Ver seu perfil público** em `sniparium.vercel.app/u/<username>`
 
 ---
 
