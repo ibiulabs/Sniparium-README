@@ -149,8 +149,7 @@ These are the first functional versions of Sniparium, released for public use:
 
 ## License
 
-MIT
-
+No license
 ---
 
 ---
@@ -306,4 +305,4 @@ Estas são as primeiras versões funcionais do Sniparium, liberadas para uso pú
 
 ## Licença
 
-MIT
+Sem licença
