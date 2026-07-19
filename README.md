@@ -2,7 +2,7 @@
 
 **Your personal code snippet bank — inside VS Code and on the web.**
 
-> Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ibiulabs.sniparium) · Web app at [sniparium.vercel.app](https://sniparium.vercel.app)
+> Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ibiulabs.sniparium) · Web app at [sniparium.ibiulabs.com](https://sniparium.ibiulabs.com)
 
 ---
 
@@ -74,7 +74,7 @@ ext install ibiulabs.sniparium
 
 ### Web App
 
-No installation required. Access directly at [sniparium.vercel.app](https://sniparium.vercel.app).
+No installation required. Access directly at [sniparium.ibiulabs.com](https://sniparium.ibiulabs.com).
 
 ---
 
@@ -116,7 +116,7 @@ All Sniparium commands are available in the **Command Palette** (`Ctrl+Shift+P` 
 
 ### Web App
 
-1. Go to [sniparium.vercel.app](https://sniparium.vercel.app)
+1. Go to [sniparium.ibiulabs.com](https://sniparium.ibiulabs.com)
 2. Sign in with your GitHub account
 3. In the dashboard you can:
    - **Create snippets** using the Monaco Editor with full syntax highlighting
@@ -142,8 +142,8 @@ These are the first functional versions of Sniparium, released for public use:
 | Category                                   | Lines      |
 | ------------------------------------------ | ---------- |
 | Source code (TypeScript, CSS, SQL, config) | 37,607     |
-| Documentation (Markdown)                   | 176        |
-| **Total**                                  | **37,783** |
+| Documentation (Markdown)                   | 3,237      |
+| **Total**                                  | **40,844** |
 
 ---
 
@@ -158,7 +158,7 @@ No license
 
 **Seu banco pessoal de snippets de código — dentro do VS Code e na web.**
 
-> Disponível no [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ibiulabs.sniparium) · Web app em [sniparium.vercel.app](https://sniparium.vercel.app)
+> Disponível no [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ibiulabs.sniparium) · Web app em [sniparium.ibiulabs.com](https://sniparium.ibiulabs.com)
 
 ---
 
@@ -230,7 +230,7 @@ ext install ibiulabs.sniparium
 
 ### Web App
 
-Sem instalação necessária. Acesse diretamente em [sniparium.vercel.app](https://sniparium.vercel.app).
+Sem instalação necessária. Acesse diretamente em [sniparium.ibiulabs.com](https://sniparium.ibiulabs.com).
 
 ---
 
@@ -272,7 +272,7 @@ Todos os comandos do Sniparium estão disponíveis na **Command Palette** (`Ctrl
 
 ### Web App
 
-1. Acesse [sniparium.vercel.app](https://sniparium.vercel.app)
+1. Acesse [sniparium.ibiulabs.com](https://sniparium.ibiulabs.com)
 2. Entre com sua conta do GitHub
 3. No dashboard você pode:
    - **Criar snippets** usando o Monaco Editor com syntax highlighting completo
@@ -298,8 +298,8 @@ Estas são as primeiras versões funcionais do Sniparium, liberadas para uso pú
 | Categoria                                   | Linhas     |
 | ------------------------------------------- | ---------- |
 | Código-fonte (TypeScript, CSS, SQL, config) | 37.607     |
-| Documentação (Markdown)                     | 176        |
-| **Total**                                   | **37.783** |
+| Documentação (Markdown)                     | 3.237      |
+| **Total**                                   | **40.844** |
 
 ---
 
